@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,4F46E5,2DD4BF&height=220&section=header&text=Kartikey%20Gupta&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20SDE-1%20Aspirant&descAlignY=60&descSize=18" width="100%"/>
+<img src="./Kartikey%20Gupta%20Developer%20Banner.png"
+     width="100%"
+     alt="Kartikey Gupta Developer Banner"/>
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Building+full-stack+web+applications;Building+AI-powered+products;Turning+data+into+decisions" />
@@ -35,9 +39,12 @@ name: Kartikey Gupta
 role: Full-Stack Developer | Data Analyst | SDE-1 Aspirant
 based_in: Chandigarh, India
 education: B.E. Electronics & Communication Engineering, UIET Panjab University
+
 focus:
   - Full-Stack Development
   - AI-powered Applications
   - Data Analytics
+
 mission: "Building AI-powered products and turning data into decisions."
+
 fun_fact: "I have solved 300+ LeetCode problems."
