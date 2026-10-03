@@ -13,7 +13,7 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/kartikey-gupta-800562237/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-5EEAD4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <a href="https://leetcode.com/u/Kartikey_2203/">
@@ -21,7 +21,7 @@
 </a>
 
 <a href="mailto:kartikey8376@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-2DD4BF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-Contact-5EEAD4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
 </a>
 
 <br><br>
@@ -72,7 +72,7 @@ fun_fact: "I have solved 300+ LeetCode problems."
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-2DD4BF?style=flat&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DAX-5EEAD4?style=flat&labelColor=0D1117"/>
 
 **Tools**<br>
 <img src="https://skillicons.dev/icons?i=git,github,aws&perline=7"/>
@@ -90,7 +90,6 @@ fun_fact: "I have solved 300+ LeetCode problems."
 | 🤖 **[AcePrep](https://github.com/Kartikey2203/AcePrep)** | React · Node.js · Express · MongoDB · Gemini API · JWT | Matches a resume to a job description and returns interview questions, a skill-gap report and an ATS-optimized resume PDF. Built solo. |
 | 🩺 **[VitalSync](https://github.com/Kartikey2203/VitalSync)** | React · Google OAuth · AWS S3 · Gemini API | Turns lab reports into a health score, nutrient-deficiency flags and a 7-day Indian diet plan. |
 | 📊 **[foresight_health](https://github.com/Kartikey2203/foresight_health)** | Python · Power BI · DAX | Analyzed $11.8B of pharma sales and flagged that nearly 30% of revenue depended on a few distributors. |
-
 
 </div>
 
@@ -121,7 +120,6 @@ fun_fact: "I have solved 300+ LeetCode problems."
 
 ---
 
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -129,7 +127,8 @@ fun_fact: "I have solved 300+ LeetCode problems."
 <img src="https://raw.githubusercontent.com/Kartikey2203/Kartikey2203/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub 3D Contribution Skyline"/>
 
 </div>
- ---
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -147,9 +146,9 @@ fun_fact: "I have solved 300+ LeetCode problems."
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-2DD4BF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-5EEAD4?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Software%20Intern-Panjab%20University%20DIC-4F46E5?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Projects-Full--Stack%20%7C%20AI%20%7C%20Data-2DD4BF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Projects-Full--Stack%20%7C%20AI%20%7C%20Data-5EEAD4?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -161,7 +160,7 @@ fun_fact: "I have solved 300+ LeetCode problems."
 
 Open to **SDE-1** and **Data Analyst** roles and internships across India, remote or hybrid.
 
-<a href="https://www.linkedin.com/in/kartikey-gupta-800562237/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/kartikey-gupta-800562237/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5EEAD4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:kartikey8376@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:2DD4BF&height=120&section=footer" width="100%"/>
