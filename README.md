@@ -51,7 +51,7 @@ fun_fact: "I have solved 300+ LeetCode problems."
 ```
 
 - 🔭 **Building:** AI-powered full-stack apps with React, Node.js and the Gemini API
-- 🌱 **Learning:** [PLACEHOLDER: what you are learning now]
+- 🌱 **Learning:** Advanced DSA and system design for SDE-1 interviews
 - 🎯 **Open to:** SDE-1 and Data Analyst roles and internships across India (remote or hybrid)
 - 💬 **Ask me about:** full-stack development, computer vision (YOLOv12) and Power BI dashboards
 
@@ -90,9 +90,7 @@ fun_fact: "I have solved 300+ LeetCode problems."
 | 🤖 **[AcePrep](https://github.com/Kartikey2203/AcePrep)** | React · Node.js · Express · MongoDB · Gemini API · JWT | Matches a resume to a job description and returns interview questions, a skill-gap report and an ATS-optimized resume PDF. Built solo. |
 | 🩺 **[VitalSync](https://github.com/Kartikey2203/VitalSync)** | React · Google OAuth · AWS S3 · Gemini API | Turns lab reports into a health score, nutrient-deficiency flags and a 7-day Indian diet plan. |
 | 📊 **[foresight_health](https://github.com/Kartikey2203/foresight_health)** | Python · Power BI · DAX | Analyzed $11.8B of pharma sales and flagged that nearly 30% of revenue depended on a few distributors. |
-| **[TradeWar](https://github.com/Kartikey2203/TradeWar)** | [PLACEHOLDER] | [PLACEHOLDER] |
-| **[customer-churn](https://github.com/Kartikey2203/customer-churn)** | [PLACEHOLDER] | [PLACEHOLDER] |
-| **[Plnnr](https://github.com/Kartikey2203/Plnnr)** | [PLACEHOLDER] | [PLACEHOLDER] |
+
 
 </div>
 
@@ -115,7 +113,7 @@ fun_fact: "I have solved 300+ LeetCode problems."
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey2203&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=FFFFFF&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikey2203&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook,html,css,scss" height="165"/>
 
 <sub>If a card is blank, it is a short rate limit on the public stats service. Refresh in a minute.</sub>
 
@@ -156,6 +154,6 @@ Open to **SDE-1** and **Data Analyst** roles and internships across India, remot
 <a href="https://www.linkedin.com/in/kartikey-gupta-800562237/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
 <a href="mailto:kartikey8376@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,4F46E5,2DD4BF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:2DD4BF&height=120&section=footer" width="100%"/>
 
 </div>
