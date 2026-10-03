@@ -121,6 +121,16 @@ fun_fact: "I have solved 300+ LeetCode problems."
 
 ---
 
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kartikey2203/Kartikey2203/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub 3D Contribution Skyline"/>
+
+</div>
+ ---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
